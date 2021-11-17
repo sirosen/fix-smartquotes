@@ -1,3 +1,11 @@
+# Deprecation Notice
+
+This repository is officially deprecated.
+
+The code has been merged into the `texthooks` project:
+- [texthooks on pypi](https://pypi.org/project/texthooks/)
+- [texthooks repo](https://github.com/sirosen/texthooks)
+-
 # fix-smartquotes
 
 A pre-commit hook for automatically finding and replacing smartquote
